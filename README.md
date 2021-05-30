@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Languages
+
+#### 我熟悉的程式語言
 
 <img align="left" alt="Golang" width="30px" src="https://img.icons8.com/color/48/000000/golang.png" />
 <img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/000000/python.png" />
@@ -24,7 +25,8 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-### Databases
+
+#### 我熟悉的資料庫
 
 <img align="left" alt="PostgreSQL" width="26px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
@@ -33,15 +35,15 @@ Here are some ideas to get you started:
 <br />
 
 
-### Platforms
+#### 我熟悉的平台及容器化技術
+
 <img align="left" alt="GCP" width="26px" src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/>
 <img align="left" alt="Docker" width="26px" src="https://img.icons8.com/dusk/64/000000/docker.png"/>
 <img align="left" alt="Kubernetes" width="26px" src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
 <br />
 <br />
 
-### Practices / Projects
-
+#### 做過的大型練習 / side projects
 
 **Python**
 - [urlshortener-python](https://github.com/hjcian/urlshortener-python) - A simple python-implemented URL shortener and some system-level thinkings
@@ -56,9 +58,9 @@ Here are some ideas to get you started:
 
 
 
+---
 
-
-### Stats
+#### Github 統計
 
 <a href="#stats" align="center">
     <img align="center" alt="Max's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hjcian&count_private=true&show_icons=true&include_all_commits=true&show_owner=true"/>
