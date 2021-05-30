@@ -1,4 +1,4 @@
-### Hi there I am Max Cian👋
+### Hi there I am Max Cian, 錢竑州👋
 
 <!--
 **hjcian/hjcian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Languages
+
 <img align="left" alt="Golang" width="30px" src="https://img.icons8.com/color/48/000000/golang.png" />
 <img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/000000/python.png" />
 <img align="left" alt="Node.js" width="30px" src="https://img.icons8.com/color/96/000000/nodejs.png"/>
@@ -24,12 +25,43 @@ Here are some ideas to get you started:
 <br />
 
 ### Databases
+
 <img align="left" alt="PostgreSQL" width="26px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
 <img align="left" alt="Redis" width="30px" src="https://img.icons8.com/color/48/000000/redis.png" />
 <br />
+<br />
+
+
+### Platforms
+![GCP|26x26](https://img.icons8.com/color/48/000000/google-cloud-platform.png)
+<!--
+<img align="left" alt="GCP" width="26px" src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/> -->
+<img align="left" alt="Docker" width="26px" src="https://img.icons8.com/dusk/64/000000/docker.png"/>
+<img align="left" alt="Kubernetes" width="26px" src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
+<br />
+<br />
+
+### Practices / Projects
+
+
+**Python**
+- [urlshortener-python](https://github.com/hjcian/urlshortener-python) - A simple python-implemented URL shortener and some system-level thinkings
+
+**Go**
+- [go-ip-rate-limiter](https://github.com/hjcian/go-ip-rate-limiter) - A Go practice for demonstrating IP rate limitation functionality
+- [quad9-as-a-service](https://github.com/hjcian/quad9-as-a-service) - Make Quad9 as a restful HTTP service with in-memory caching ability.
+
+**React.js**
+- [inertia-web](https://github.com/hjcian/inertia-web) - A web application for simplifying the maintenance effort of your index investing plan.
+- [urlshortener-react](https://github.com/hjcian/urlshortener-react) - A single simple react page for demonstrating the urlshortener-python
+
+
+
+
 
 ### Stats
+
 <a href="#stats" align="center">
     <img align="center" alt="Max's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hjcian&count_private=true&show_icons=true&include_all_commits=true&show_owner=true"/>
 </a>
