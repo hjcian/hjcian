@@ -34,9 +34,7 @@ Here are some ideas to get you started:
 
 
 ### Platforms
-![GCP|26x26](https://img.icons8.com/color/48/000000/google-cloud-platform.png)
-<!--
-<img align="left" alt="GCP" width="26px" src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/> -->
+<img align="left" alt="GCP" width="26px" src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/>
 <img align="left" alt="Docker" width="26px" src="https://img.icons8.com/dusk/64/000000/docker.png"/>
 <img align="left" alt="Kubernetes" width="26px" src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
 <br />
