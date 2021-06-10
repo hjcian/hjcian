@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--- Ref: https://github.com/Ileriayo/markdown-badges -->
 #### 我熟悉的程式語言
-
-<img align="left" alt="Golang" width="30px" src="https://img.icons8.com/color/48/000000/golang.png" />
-<img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/000000/python.png" />
-<img align="left" alt="Node.js" width="30px" src="https://img.icons8.com/color/96/000000/nodejs.png"/>
-<img align="left" alt="React.js" width="30px" src="https://img.icons8.com/officel/480/000000/react.png"/>
-<img align="left" alt="Bash script" width="30px" src="https://camo.githubusercontent.com/5a76ab68c90df7ecccdeac83138c8f7c62c7f3a4/687474703a2f2f69636f6e732e69636f6e617263686976652e636f6d2f69636f6e732f616c65636976652f666c6174776f6b656e2f3531322f417070732d5465726d696e616c2d50632d3130342d69636f6e2e706e67" />
-<br />
-<br />
-
+<p align="left">
+  [<img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>][golang]
+  [<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>][python]
+  [<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>][JavaScript]
+  [<img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>][NodeJS]
+  [<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>][React]
+  [<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>][Shell Script]
+</p>
 
 #### 我熟悉的資料庫
 
@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 
 #### 我熟悉的平台及容器化技術
+
 
 <img align="left" alt="GCP" width="26px" src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/>
 <img align="left" alt="Docker" width="26px" src="https://img.icons8.com/dusk/64/000000/docker.png"/>
@@ -49,8 +50,10 @@ Here are some ideas to get you started:
 - [urlshortener-python](https://github.com/hjcian/urlshortener-python) - A simple python-implemented URL shortener and some system-level thinkings
 
 **Go**
+- [urlshortener-go](https://github.com/hjcian/urlshortener-go) - A Go implementation of URL shortener
 - [go-ip-rate-limiter](https://github.com/hjcian/go-ip-rate-limiter) - A Go practice for demonstrating IP rate limitation functionality
 - [quad9-as-a-service](https://github.com/hjcian/quad9-as-a-service) - Make Quad9 as a restful HTTP service with in-memory caching ability.
+- [cache-practice](https://github.com/hjcian/cache-practice) - 情境練習，根據情境假設實作 cache 機制
 
 **React.js**
 - [inertia-web](https://github.com/hjcian/inertia-web) - A web application for simplifying the maintenance effort of your index investing plan.
