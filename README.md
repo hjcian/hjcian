@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 
 <!--- Ref: https://github.com/Ileriayo/markdown-badges -->
 #### 我熟悉的程式語言
+
 <p align="left">
   [<img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>][golang]
   [<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>][python]
-  [<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>][JavaScript]
-  [<img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>][NodeJS]
-  [<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>][React]
-  [<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>][Shell Script]
+  [<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>][javascript]
+  [<img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>][nodejs]
+  [<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>][react]
+  [<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>][shellscript]
 </p>
 
 #### 我熟悉的資料庫
@@ -75,3 +76,9 @@ Here are some ideas to get you started:
     <img align="center" alt="Max's Top Language" src="https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=hjcian&langs_count=10&hide=jupyter%20notebook,ruby" />
 </a>
 <br />
+
+[golang]: https://golang.org
+[python]: https://www.python.org
+[redis]: https://redis.io
+[mongodb]: https://www.mongodb.com
+[docker]: https://www.docker.com
