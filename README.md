@@ -19,31 +19,38 @@ Here are some ideas to get you started:
 #### 我熟悉的程式語言
 
 <p align="left">
+
   [<img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>][golang]
   [<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>][python]
   [<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>][javascript]
   [<img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>][nodejs]
   [<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>][react]
-  [<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>][shellscript]
+
 </p>
 
 #### 我熟悉的資料庫
 
-<img align="left" alt="PostgreSQL" width="26px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
-<img align="left" alt="Redis" width="30px" src="https://img.icons8.com/color/48/000000/redis.png" />
-<br />
-<br />
+<p align="left">
+
+  [<img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>][postgres]
+  [<img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>][redis]
+  [	<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>][mongodb]
+
+</p>
 
 
-#### 我熟悉的平台及容器化技術
+#### 我的 DevOps tool chain
 
+<p align="left">
 
-<img align="left" alt="GCP" width="26px" src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/>
-<img align="left" alt="Docker" width="26px" src="https://img.icons8.com/dusk/64/000000/docker.png"/>
-<img align="left" alt="Kubernetes" width="26px" src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
-<br />
-<br />
+  [<img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>][gcp]
+  [<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>][docker]
+  [<img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>][k8s]
+  [<img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>][githubactions]
+  [<img alt="GitLab CI" src="https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>][gitlabcicd]
+  [<img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>][terraform]
+</p>
+
 
 #### 做過的大型練習 / side projects
 
@@ -79,6 +86,18 @@ Here are some ideas to get you started:
 
 [golang]: https://golang.org
 [python]: https://www.python.org
+[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[nodejs]: https://nodejs.org/
+[react]: https://reactjs.org/
+
+[postgres]: https://www.postgresql.org/
 [redis]: https://redis.io
 [mongodb]: https://www.mongodb.com
-[docker]: https://www.docker.com
+
+
+[gcp]: https://cloud.google.com/
+[docker]: https://www.docker.com/
+[k8s]: https://kubernetes.io/
+[githubactions]: https://docs.github.com/en/actions
+[gitlabcicd]: https://docs.gitlab.com/ee/ci/
+[terraform]: https://www.terraform.io/
