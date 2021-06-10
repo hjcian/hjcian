@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 </p>
 
 
-#### 做過的大型練習 / side projects
+#### 做過的相關練習 / side projects
 
 **Python**
 - [urlshortener-python](https://github.com/hjcian/urlshortener-python) - A simple python-implemented URL shortener and some system-level thinkings
